@@ -1,0 +1,17 @@
+body{
+    color:white;
+    background-color: orangered;
+}
+.encabezado{
+    width: 80%;
+    font-size: 22px;
+}
+.nombre-objetos,#result_objectName,#result_objectPrecission{
+    color: aqua;
+}
+#camera{
+    border:2px dashed black;
+    width: 350px;
+    height:300px;
+
+}
